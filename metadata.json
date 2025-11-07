@@ -1,0 +1,5 @@
+{
+  "name": "AI Blog Content Generator",
+  "description": "An AI-powered application to generate structured blog posts based on user-provided topics, outlines, tones, and desired lengths using the Gemini API.",
+  "requestFramePermissions": []
+}
